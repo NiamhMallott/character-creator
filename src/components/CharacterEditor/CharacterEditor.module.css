@@ -39,3 +39,11 @@
 .controlColumn {
   max-width: 50%;
 }
+
+.backgroundSplit {
+  position: fixed;
+  background: hsl(195deg, 20%, 86%);
+  bottom: 0;
+  height: 40%;
+  width: 100%;
+}

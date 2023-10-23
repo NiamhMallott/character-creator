@@ -6,13 +6,14 @@ body,
 
 body {
   background-color: hsl(180deg, 25%, 92%);
+  z-index: 0;
   margin: 0;
 }
 
 *,
 *:before,
 *:after {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   box-sizing: border-box;
 }
 
